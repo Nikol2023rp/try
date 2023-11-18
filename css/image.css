@@ -1,0 +1,39 @@
+body{
+background-color: lightsalmon;
+}
+body{
+	background-color: orangered;
+	background-image: url(https://www.icegif.com/wp-content/uploads/2022/01/icegif-1479.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+	background-size: 200px;
+}
+P{	
+ font-size:0.9in;
+ background-image:url(https://pub-static.fotor.com/assets/bg/835e8b4a-6aad-48b9-a105-cff386b3afc3.jpg);
+ background-size: cover;
+ color:gold;
+font-family:'Rubik Puddies', cursive;
+text-align:center ;
+text-shadow: 3 px  grey ;
+}
+.im1 {  width:40%;
+margin:auto ;
+display:block ;
+border-radius:20%;
+box-shadow:50px 10px 40px grey; 
+}
+.im2{
+	border: ridge 20px lightred;
+	width: 500px;
+}
+.d1{ 
+    width:500px:;
+    height:500px:;
+    background-image:ur1(https:fonts.google.com): 
+    background-size:cover:;
+    border: groove 20px mediumblue;
+    margin:50px ; 
+}
+    

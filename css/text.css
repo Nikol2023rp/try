@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+h1{
+	font-weight: 400;
+	font-family:'Pacifico', cursive; 
+	text-align: center;
+	letter-spacing: 5px;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+	line-height: 24px;
+}
+h2{
+	text-align: right;
+	text-transform: uppercase;
+}
+h3{
+	font-style: italic ;
+	font-weight: 700 ;
+}
+.img1{
+	float: left;
+}
+.f1{
+	float: left;
+	width: 400;
+    border: solid 1px lightblue;
+    padding: 10px;
+}
