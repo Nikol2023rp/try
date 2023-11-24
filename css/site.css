@@ -55,6 +55,7 @@ article{
 	display: inline-block;
 	border: dashed 2px indigo;
 	padding: 5px;
+	font-size:24px;
 }
 section{
 	background-color: orange;
